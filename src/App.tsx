@@ -19,8 +19,8 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2 text-white">
               <img 
-                src="https://kppestcontrolservices.com/wp-content/uploads/2024/07/cropped-cropped-logo-1-150x150-1-150x150.jpeg"
-                alt="KP Pest Control Logo"
+                src="/images/logo.jpeg"
+                alt="Safe Care Home"
                 className="w-12 h-12 rounded-full"
               />
               <span className="text-2xl font-bold">KP Pest Control</span>

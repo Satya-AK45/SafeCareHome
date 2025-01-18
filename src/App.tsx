@@ -7,11 +7,7 @@ function App() {
       {/* Hero Section */}
       <header className="relative h-[600px]">
         <div className="absolute inset-0">
-          <img 
-            src="https://images.unsplash.com/photo-1626289535731-49daee3c53a4?auto=format&fit=crop&q=80"
-            alt="Professional Pest Control"
-            className="w-full h-full object-cover"
-          />
+          
           <div className="absolute inset-0 bg-black/60"></div>
         </div>
         

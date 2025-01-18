@@ -25,7 +25,7 @@ function App() {
               <a href="#services" className="hover:text-yellow-400 transition">Services</a>
               <a href="#about" className="hover:text-yellow-400 transition">About</a>
               <a href="#contact" className="hover:text-yellow-400 transition">Contact</a>
-              <a href="tel:+918830073659" className="bg-yellow-500 text-black px-6 py-2 rounded-full font-semibold hover:bg-yellow-400 transition">
+              <a href="tel:+919309543698" className="bg-yellow-500 text-black px-6 py-2 rounded-full font-semibold hover:bg-yellow-400 transition">
                 Call Now
               </a>
             </div>

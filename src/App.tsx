@@ -15,7 +15,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2 text-white">
               <img 
-                src="/images/logo.jpeg"
+                src="https://safe-care-home.vercel.app/assets/logo-Cli57gnP.jpeg"
                 alt="Safe Care Home"
                 className="w-12 h-12 rounded-full"
               />
@@ -108,7 +108,7 @@ function App() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-8">About Us</h2>
             <p className="text-lg text-gray-600 mb-8">
-              KP Pest Control Services is a leading pest control company based in Pune, dedicated to providing top-notch pest management solutions to residential and commercial clients. Our mission is to ensure a pest-free environment using the most effective and environmentally friendly methods.
+            Safe Care Home is a leading pest control company based in Pune, dedicated to providing top-notch pest management solutions to residential and commercial clients. Our mission is to ensure a pest-free environment using the most effective and environmentally friendly methods.
             </p>
           </div>
         </div>
@@ -122,12 +122,12 @@ function App() {
             <div className="text-center">
               <Phone className="w-12 h-12 text-yellow-500 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Call Us</h3>
-              <a href="tel:+918830073659" className="text-gray-600 hover:text-yellow-500">+91 8830073659</a>
+              <a href="tel:+919309543698" className="text-gray-600 hover:text-yellow-500">+91-9309543698 / +91-9168126595</a>
             </div>
             <div className="text-center">
               <Mail className="w-12 h-12 text-yellow-500 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Email Us</h3>
-              <a href="mailto:info@kppestcontrolservices.com" className="text-gray-600 hover:text-yellow-500">info@kppestcontrolservices.com</a>
+              <a href="mailto:Safecarehome94@gamil.com" className="text-gray-600 hover:text-yellow-500">safecarehome94@gamil.com</a>
             </div>
             <div className="text-center">
               <MapPin className="w-12 h-12 text-yellow-500 mx-auto mb-4" />
@@ -145,11 +145,11 @@ function App() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <img 
-                  src="https://kppestcontrolservices.com/wp-content/uploads/2024/07/cropped-cropped-logo-1-150x150-1-150x150.jpeg"
-                  alt="KP Pest Control Logo"
+                  src="https://safe-care-home.vercel.app/assets/logo-Cli57gnP.jpeg"
+                  alt="Safe Care Home Logo"
                   className="w-8 h-8 rounded-full"
                 />
-                <span className="font-bold">KP Pest Control</span>
+                <span className="font-bold">Safe Care Home</span>
               </div>
               <p className="text-gray-400">Professional pest control services for residential and commercial properties.</p>
             </div>
@@ -168,7 +168,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-            <p className="text-gray-400">© {new Date().getFullYear()} KP Pest Control Services. All rights reserved.</p>
+            <p className="text-gray-400">© {new Date().getFullYear()} Safe Care Home. All rights reserved.</p>
           </div>
         </div>
       </footer>

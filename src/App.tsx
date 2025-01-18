@@ -19,7 +19,7 @@ function App() {
                 alt="Safe Care Home"
                 className="w-12 h-12 rounded-full"
               />
-              <span className="text-2xl font-bold">KP Pest Control</span>
+              <span className="text-2xl font-bold">Safe Care Home</span>
             </div>
             <div className="hidden md:flex items-center space-x-8 text-white">
               <a href="#services" className="hover:text-yellow-400 transition">Services</a>

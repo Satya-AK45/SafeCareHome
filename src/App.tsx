@@ -132,7 +132,7 @@ function App() {
             <div className="text-center">
               <MapPin className="w-12 h-12 text-yellow-500 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Visit Us</h3>
-              <p className="text-gray-600">S.No.46/3/78/2, Bhairavnath Nagar, Near Manisha Floormill, Pimple Gurav, Haveli, Pune 61</p>
+              <p className="text-gray-600">102, Royal Residency krupasindhu park wadmukh wadi pune 4121051</p>
             </div>
           </div>
         </div>

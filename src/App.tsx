@@ -40,7 +40,7 @@ function App() {
             Protecting your home and business from unwanted pests with safe, effective, and eco-friendly solutions.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="tel:+918830073659" className="bg-yellow-500 text-black px-8 py-3 rounded-full font-semibold text-lg hover:bg-yellow-400 transition">
+            <a href="tel:+919168126595" className="bg-yellow-500 text-black px-8 py-3 rounded-full font-semibold text-lg hover:bg-yellow-400 transition">
               Get Free Quote
             </a>
             <a href="#services" className="border-2 border-white text-white px-8 py-3 rounded-full font-semibold text-lg hover:bg-white hover:text-black transition">
